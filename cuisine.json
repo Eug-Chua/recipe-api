@@ -1,0 +1,43 @@
+[
+    {
+      "_id": 1,
+      "name": "Chinese"
+    },
+    {
+      "_id": 2,
+      "name": "Western"
+    },
+    {
+      "_id": 3,
+      "name": "Japanese"
+    },
+    {
+      "_id": 4,
+      "name": "Indian"
+    },
+    {
+      "_id": 5,
+      "name": "Italian"
+    },
+    {
+      "_id": 6,
+      "name": "Mexican"
+    },
+    {
+      "_id": 7,
+      "name": "French"
+    },
+    {
+      "_id": 8,
+      "name": "Thai"
+    },
+    {
+      "_id": 9,
+      "name": "Mediterranean"
+    },
+    {
+      "_id": 10,
+      "name": "Korean"
+    }
+  ]
+  

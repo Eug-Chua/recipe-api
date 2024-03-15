@@ -1,0 +1,43 @@
+[
+    {
+      "_id": 1,
+      "name": "Vegetarian"
+    },
+    {
+      "_id": 2,
+      "name": "Gluten-Free"
+    },
+    {
+      "_id": 3,
+      "name": "Dairy-Free"
+    },
+    {
+      "_id": 4,
+      "name": "Vegan"
+    },
+    {
+      "_id": 5,
+      "name": "Low-Carb"
+    },
+    {
+      "_id": 6,
+      "name": "Paleo"
+    },
+    {
+      "_id": 7,
+      "name": "Keto"
+    },
+    {
+      "_id": 8,
+      "name": "Halal"
+    },
+    {
+      "_id": 9,
+      "name": "Kosher"
+    },
+    {
+      "_id": 10,
+      "name": "Spicy"
+    }
+  ]
+  

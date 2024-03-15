@@ -1,0 +1,60 @@
+[
+    {
+      "_id": 1,
+      "name": "Spaghetti Bolognese",
+      "cooking_duration": "45 minutes",
+      "difficulty": "Intermediate",
+      "cuisine": {
+        "_id": 5,
+        "name": "Italian"
+      },
+      "tags": [2, 9],
+      "ingredients": [
+        "Spaghetti",
+        "Ground beef",
+        "Tomato sauce",
+        "Onion",
+        "Garlic",
+        "Parmesan cheese"
+      ]
+    },
+    {
+      "_id": 2,
+      "name": "Chicken Tikka Masala",
+      "cooking_duration": "1 hour",
+      "difficulty": "Advanced",
+      "cuisine": {
+        "_id": 4,
+        "name": "Indian"
+      },
+      "tags": [3, 10],
+      "ingredients": [
+        "Chicken",
+        "Yogurt",
+        "Tomato",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Spices"
+      ]
+    },
+    {
+      "_id": 3,
+      "name": "Sushi Rolls",
+      "cooking_duration": "30 minutes",
+      "difficulty": "Beginner",
+      "cuisine": {
+        "_id": 3,
+        "name": "Japanese"
+      },
+      "tags": [1, 4],
+      "ingredients": [
+        "Sushi rice",
+        "Nori seaweed",
+        "Cucumber",
+        "Carrot",
+        "Avocado"
+      ]
+    }
+  ]
+  
