@@ -1,5 +1,7 @@
 # Recipe API
-This Recipe API is a Node.js application built with Express and MongoDB. It provides a RESTful API for managing recipes, including operations such as creating, retrieving, updating, and deleting recipes. It also features user authentication and protected routes for authorized access.
+This Recipe API is a Node.js application built with Express and MongoDB.
+
+It provides a RESTful API for managing recipes, including operations such as creating, retrieving, updating, and deleting recipes. It also features user authentication and protected routes for authorized access.
 
 ## Features
 - CRUD Operations: Create, read, update, and delete recipes in a MongoDB database.
